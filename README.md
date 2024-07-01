@@ -1,4 +1,4 @@
-# Laravel DynamoDB
+# Laravel DynamoDB & DAX
 
 [![test](https://github.com/kitar/laravel-dynamodb/workflows/test/badge.svg)](https://github.com/kitar/laravel-dynamodb/actions)
 [![codecov](https://codecov.io/gh/kitar/laravel-dynamodb/branch/master/graph/badge.svg)](https://codecov.io/gh/kitar/laravel-dynamodb/branch/master)
